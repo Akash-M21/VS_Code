@@ -1,4 +1,3 @@
-# VS_Code
 New Calculator
 <br>
 New features added using html bash python and java
